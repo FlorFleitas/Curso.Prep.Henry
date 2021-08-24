@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://cdn.cbeditz.com/cbeditz/preview/blue-white-gradiant-powerpoint-background-2-116109704563a3dqfntna.jpg);
+    background-repeat: no-repeat;
+    background-position-x:top;
+    background-position-y:top;
+    background-size: 1770px;
+}
+
+div{
+    text-align: center;
+}
+
+#pId {
+      text-align:center;
+      width: 500px;
+      margin:auto;
+}
